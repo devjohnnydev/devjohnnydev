@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devjohnnydev&show_icons=true&count_private=true&hide_border=true&title_color=bf00bf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Johnny Braga - status de atividade no github" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devjohnnydev&show_icons=true&count_private=true&hide_border=true&title_color=bf00bf&icon_color=bf00bf&text_color=c9d1d9&bg_color=0d1117" alt="Johnny Braga - status de atividade no github" /> 
   
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjohnnydev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117%22" />
+
+  
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjohnnydev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   
   
 </div>
@@ -46,8 +48,13 @@ Here are some ideas to get you started:
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devjohnnydev}/count.svg" /></p> 
+<br></div>
   
   
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf00bf&height=120&section=footer"/>
  
 
 
